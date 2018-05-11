@@ -1,0 +1,12 @@
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DTO\bin\Debug\DTO.dll
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DTO\bin\Debug\DTO.pdb
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DTO\obj\Debug\DTO.dll
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DTO\obj\Debug\DTO.pdb
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DTO\bin\Debug\DTO.dll
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DTO\bin\Debug\DTO.pdb
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DTO\obj\Debug\DTO.dll
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DTO\obj\Debug\DTO.pdb

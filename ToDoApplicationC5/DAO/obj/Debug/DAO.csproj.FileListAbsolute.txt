@@ -1,0 +1,16 @@
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\bin\Debug\DAO.dll
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\bin\Debug\DAO.pdb
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\bin\Debug\DTO.dll
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\bin\Debug\DTO.pdb
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\obj\Debug\DAO.dll
+C:\Users\ha.nguyen\source\repos\ToDoApplicationV2\DAO\obj\Debug\DAO.pdb
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\bin\Debug\DAO.dll
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\bin\Debug\DAO.pdb
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\bin\Debug\DTO.dll
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\bin\Debug\DTO.pdb
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\obj\Debug\DAO.dll
+D:\ThiDiep\SourseCode\ToDoApplicationV2\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,11 @@
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe.config
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.pdb
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.MainUIForm.resources
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.Properties.Resources.resources
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.GenerateResource.Cache
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.CoreCompileInputs.cache
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.exe
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+D:\ThiDiep\SourseCode\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.AddTaskForm.resources

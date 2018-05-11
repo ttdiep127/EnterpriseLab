@@ -1,0 +1,7 @@
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\bin\Debug\CRMV2.exe.config
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\bin\Debug\CRMV2.exe
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\bin\Debug\CRMV2.pdb
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\obj\Debug\CRMV2.csproj.CoreCompileInputs.cache
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\obj\Debug\CRMV2.exe
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\obj\Debug\CRMV2.pdb
+D:\ThiDiep\SourseCode\CRMvs1\CRMV2\obj\Debug\CRMV2.csprojResolveAssemblyReference.cache

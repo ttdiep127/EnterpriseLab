@@ -1,0 +1,15 @@
+D:\ThiDiep\SourseCode\CRM\CRM\bin\Debug\CRM.exe.config
+D:\ThiDiep\SourseCode\CRM\CRM\bin\Debug\CRM.exe
+D:\ThiDiep\SourseCode\CRM\CRM\bin\Debug\CRM.pdb
+D:\ThiDiep\SourseCode\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\CRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\ThiDiep\SourseCode\CRM\CRM\obj\Debug\CRM.exe
+D:\ThiDiep\SourseCode\CRM\CRM\obj\Debug\CRM.pdb
+C:\Users\ha.nguyen\Desktop\CRM\CRM\bin\Debug\CRM.exe.config
+C:\Users\ha.nguyen\Desktop\CRM\CRM\bin\Debug\CRM.exe
+C:\Users\ha.nguyen\Desktop\CRM\CRM\bin\Debug\CRM.pdb
+C:\Users\ha.nguyen\Desktop\CRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\ha.nguyen\Desktop\CRM\CRM\obj\Debug\CRM.exe
+C:\Users\ha.nguyen\Desktop\CRM\CRM\obj\Debug\CRM.pdb
+C:\Users\ha.nguyen\Desktop\CRM\CRM\bin\Debug\CRM.exe.CodeAnalysisLog.xml
+C:\Users\ha.nguyen\Desktop\CRM\CRM\bin\Debug\CRM.exe.lastcodeanalysissucceeded

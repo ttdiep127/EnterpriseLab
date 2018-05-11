@@ -1,0 +1,14 @@
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\bin\Debug\CRMReviewed.exe.config
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\bin\Debug\CRMReviewed.exe
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\bin\Debug\CRMReviewed.pdb
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\obj\Debug\CRMReviewed.csproj.CoreCompileInputs.cache
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\obj\Debug\CRMReviewed.exe
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\obj\Debug\CRMReviewed.pdb
+C:\Users\ha.nguyen\Desktop\CRM\CRMReviewed\obj\Debug\CRMReviewed.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\bin\Debug\CRMReviewed.exe.config
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\bin\Debug\CRMReviewed.exe
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\bin\Debug\CRMReviewed.pdb
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\obj\Debug\CRMReviewed.csprojResolveAssemblyReference.cache
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\obj\Debug\CRMReviewed.csproj.CoreCompileInputs.cache
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\obj\Debug\CRMReviewed.exe
+D:\ThiDiep\SourseCode\CRMvs1\CRMReviewed\obj\Debug\CRMReviewed.pdb
